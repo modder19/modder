@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/api/create", "destination": "/api/create" },
+    { "source": "/:code", "destination": "/api/[code]" }
+  ]
+}
