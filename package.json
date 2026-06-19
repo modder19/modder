@@ -1,0 +1,12 @@
+{
+  "name": "github-raw-shortener",
+  "version": "1.0.0",
+  "description": "GitHub raw linkleri için kısa URL oluşturucu",
+  "main": "index.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "vercel": "^32.0.0"
+  }
+}
